@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hosam_ali_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hosam_ali_2001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hossam mohamed ali abdel fattah abou zeid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossam mohamed ali abdel fattah abou zeid" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/hossam mohamed ali abdel fattah abou zeid](https://www.linkedin.com/in/hossamaliff2001/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossam mohamed ali abdel fattah abou zeid" height="30" width="40" /></a>
 <a href="https://fb.com/hosam mohammed ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hosam mohammed ali" height="30" width="40" /></a>
 <a href="https://instagram.com/hosam_mohammed_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hosam_mohammed_ali" height="30" width="40" /></a>
 </p>
